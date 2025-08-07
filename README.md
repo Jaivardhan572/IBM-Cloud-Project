@@ -1,2 +1,2 @@
 # IBM-Cloud-Project
-IBM cloud project details and files as well as the complete project file.
+This is a Machine Learning project developed under the IBM Cloud internship. It ia a Power Sytem Fault Detection and Classification Model developed using the IBM cloud services like Watsonx.ai studio, storage services etc. This ML model was trained on the dataset provided by Kaggle. This model takes various parameters as input from the user and detects and classifies the type of fault in the power system.
